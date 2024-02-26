@@ -1,6 +1,6 @@
 **Description**
 
-This program centers on the creation of a word ladder that connects two English words using a dictionary of the full English language from a dynamic heap-allocated array of C strings and triple pointers. You can utilized UNIX command-line arguments for several tasks: setting the word length for the starting and final words for the word ladder; setting the maximum allowed word ladder height, which sets the maximum capacity for the dynamic array of C-strings that will represent the word ladder; interactively setting the dictionary file name, **dict,** to be used for reading words into the full array of possible woords that could later make up the ladder.
+This program centers on the creation of a word ladder that connects two English words using a dictionary of the full English language from a dynamic heap-allocated array of C strings and triple pointers. You can utilized UNIX command-line arguments for several tasks: setting the word length for the starting and final words for the word ladder; setting the maximum allowed word ladder height, which sets the maximum capacity for the dynamic array of C-strings that will represent the word ladder; interactively setting the dictionary file name, **dict,** to be used for reading words into the full array of possible words that could later make up the ladder.
 
 
 **Summary**
